@@ -251,7 +251,7 @@ header main .main__information__scroll .main__information__scroll__p {
 header main .img {
   display: none;
 }
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   header nav {
     max-width: 359px;
     display: -webkit-box;
@@ -446,7 +446,7 @@ header main .img {
   line-height: 135%;
   color: #808080;
 }
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   .benefits .benefits {
     max-width: 359px;
     max-height: 668px;
@@ -679,7 +679,7 @@ header main .img {
   line-height: 135%;
   color: #ffffff;
 }
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   .work .work {
     max-width: 359px;
     max-height: 864px;
@@ -989,7 +989,7 @@ header main .img {
   line-height: 135%;
   color: #4754eb;
 }
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   .tarif .tarif {
     max-width: 359px;
   }
@@ -1179,7 +1179,7 @@ header main .img {
   z-index: 1;
 }
 
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   .reviews {
     max-width: 359px;
     max-height: 5000px;
@@ -1422,7 +1422,7 @@ header main .img {
   line-height: 135%;
 }
 
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   .sale {
     max-width: 359px;
     height: auto;
@@ -1568,7 +1568,7 @@ header main .img {
   line-height: 135%;
   color: #808080;
 }
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   .anwer .anwer {
     max-width: 359px;
     height: auto;
@@ -1735,7 +1735,7 @@ header main .img {
   color: #808080;
 }
 
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   .feedback {
     max-width: 359px;
     margin-top: 40px;
@@ -1857,7 +1857,7 @@ footer .footeer .footeer__up .footeer__up__block .footeer__up__block__a {
   line-height: 135%;
   color: #ffffff;
 }
-@media (max-width: 359px) {
+@media (max-width: 420px) {
   footer footer {
     max-width: 359px;
     max-height: 104px;
